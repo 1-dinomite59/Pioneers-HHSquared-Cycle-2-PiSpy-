@@ -3,6 +3,8 @@
 # -*- coding: utf8 -*-
 # code by MTMoore and Fcowell(1-dinomite59) 
 #With Thanks to the creators of the MFRC522 Libary 
+#
+#
 
 
 import RPi.GPIO as GPIO
